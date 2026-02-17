@@ -15,16 +15,16 @@ Scientific Organizing Committee:
 John Gizis (U of Delaware), Jackie Faherty (AMNH), Genaro Suarez (AMNH), Mark Marley (U of Arizona), Nataliea Lowson (U of Delaware)
 
 Invited Speakers:
-Emily Calamari (AMNH)
-Guangwei Fu (Johns Hopkins)
-Peter Gao (Carnegie)
-Adam Langeveld (Johns Hopkins)
-Mathilde Mâlin (Johns Hopkins)
-Aaron Meisner (NOIRLab)
-Brittany Miles (Arizona)
-Sarah Moran (Maryland)
-Caroline Morley (Texas)
-Melanie Rowland (AMNH)
+Emily Calamari (AMNH), 
+Guangwei Fu (Johns Hopkins), 
+Peter Gao (Carnegie), 
+Adam Langeveld (Johns Hopkins), 
+Mathilde Mâlin (Johns Hopkins), 
+Aaron Meisner (NOIRLab), 
+Brittany Miles (Arizona), 
+Sarah Moran (Maryland), 
+Caroline Morley (Texas), 
+Melanie Rowland (AMNH), 
 Zhoujian Zhang (Rochester)
 
 Location

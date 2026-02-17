@@ -15,6 +15,21 @@ Scientific Organizing Committee:
 John Gizis (U of Delaware), Jackie Faherty (AMNH), Genaro Suarez (AMNH), Mark Marley (U of Arizona), Nataliea Lowson (U of Delaware)
 
 Invited Speakers:
-Melanie Rowland (AMNH), Emily Calamari (AMNH), 
+Emily Calamari (AMNH)
+Guangwei Fu (Johns Hopkins)
+Peter Gao (Carnegie)
+Adam Langeveld (Johns Hopkins)
+Mathilde Mâlin (Johns Hopkins)
+Aaron Meisner (NOIRLab)
+Brittany Miles (Arizona)
+Sarah Moran (Maryland)
+Caroline Morley (Texas)
+Melanie Rowland (AMNH)
+Zhoujian Zhang (Rochester)
 
+Location
+Clayton Hall Conference Center
+https://conferences.udel.edu/clayton-conference-center/
+
+Schedule (COMING SOON)
 

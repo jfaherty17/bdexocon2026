@@ -9,7 +9,7 @@ On April 28th and 29th, 2026 we will hold the fourth installment of The Brown Dw
 
 
 Registration for the meeting is free but required. Please see the link [here](https://docs.google.com/forms/d/e/1FAIpQLScNDT1KaELll65sjOROxl2XfysBZvQFPWwCVUsfhWrhrynsvw/viewform).
-
+ABSTRACT DEADLINE FOR TALKS IS MARCH 20th.
 
 Scientific Organizing Committee:
 John Gizis (U of Delaware), Jackie Faherty (AMNH), Genaro Suarez (AMNH), Mark Marley (U of Arizona), Nataliea Lowson (U of Delaware)
